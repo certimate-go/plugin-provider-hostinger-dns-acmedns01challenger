@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "hostinger",
+  "binary": "hostinger-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via Hostinger.",
+  "display_name_key": "plugin.hostinger-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "hostinger-dns",
+  "provider_aliases": [
+    "hostinger"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

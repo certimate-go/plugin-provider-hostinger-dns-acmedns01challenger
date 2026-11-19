@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "hostinger",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "apiToken",
+        "valueType": "secret",
+        "labelKey": "plugin.hostinger-dns.access.apiToken.label",
+        "tooltipKey": "plugin.hostinger-dns.access.apiToken.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.hostinger-dns.access.apiToken.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}

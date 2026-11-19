@@ -1,0 +1,7 @@
+{
+  "plugin.hostinger-dns.name": "Hostinger",
+  "plugin.hostinger-dns.description": "ACME DNS-01 via Hostinger.",
+  "plugin.hostinger-dns.access.apiToken.label": "Hostinger API token",
+  "plugin.hostinger-dns.access.apiToken.tooltip": "For more information, see <a href=\"https://developers.hostinger.com/#description/authentication\" target=\"_blank\">https://developers.hostinger.com/#description/authentication</a>",
+  "plugin.hostinger-dns.access.apiToken.placeholder": "Please enter Hostinger API token"
+}
